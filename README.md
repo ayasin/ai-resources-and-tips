@@ -1,4 +1,4 @@
-# ai-resources-and-tips
+# AI/ML Resources, Tips and Tricks
 A repo for collecting AI/ML resources, tips and tricks
 
 ### General Resources
